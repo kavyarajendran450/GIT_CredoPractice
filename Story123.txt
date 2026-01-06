@@ -1,1 +1,1 @@
-This is a new branch and its a feature branch
+This is a new branch and its a feature branch and its working as expected
